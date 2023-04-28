@@ -4,10 +4,7 @@
 
 [iSH](https://github.com/ish-app/ish) is a Linux shell for iOS
 
-![neo](https://user-images.githubusercontent.com/96319944/233411044-618b2e1b-5e5b-46eb-8d3f-4af5ebbdae6c.png)
-
-![color](https://user-images.githubusercontent.com/96319944/233411077-c66efbb7-01fb-43f1-9df6-1ed3c5e309ff.png)
-
+![neo](https://user-images.githubusercontent.com/96319944/235209209-a1e134dd-29fb-4e60-ba70-54ec72d570ca.jpeg)
 
 ## Install
 
