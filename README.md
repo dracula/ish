@@ -1,41 +1,20 @@
 # Dracula for [iSH](https://github.com/ish-app/ish)
 
->Dracula for [iSH](https://github.com/ish-app/ish)
+> A dark theme for [iSH](https://github.com/ish-app/ish).
 
-[iSH](https://github.com/ish-app/ish) is a Linux shell for iOS
-
-![neo](https://user-images.githubusercontent.com/96319944/235211943-aca7d687-7ad3-46a8-81b3-df0a40c4056e.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-In order to use themes in iSH you will need to use either the current [AppStore version](https://apps.apple.com/us/app/ish-shell/id1436902243) or one of the newer [github releases](https://github.com/ish-app/ish/releases)
-
-## Step 1
-
-Simply download the Dracula.json theme
-
-[Dracula.json.zip](https://github.com/dracula/ish/files/11355164/Dracula.json.zip)
-
-## Step 2
-
-Place Dracula.json theme in the iSH theme folder
-
-## Step 3
-
-Activate Dracula
-
-![theme](https://user-images.githubusercontent.com/96319944/233413452-89759c02-3422-4ab4-811a-cad9c3c3fc62.png)
-
-Enjoy 🧛🏻‍♂️ on iSH
+All instructions can be found at [draculatheme.com/ish](https://draculatheme.com/ish).
 
 ## Team
 
-This theme is maintained by the following person(s).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-
-| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt)|
-| ----------------------------------------------------------------------------------------- |
-| [urrickhunt](https://github.com/urrickhunt)                                               |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
+| ------------------------------------------------------------------------------------------ |
+| [urrickhunt](https://github.com/urrickhunt)                                                |
 
 ## Community
 
