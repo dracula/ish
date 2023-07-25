@@ -1,4 +1,6 @@
 {
+  "name" : "Dracula",
+  "version" : 1,
   "shared" : {
     "backgroundColor" : "#282A36",
     "colorPaletteOverrides" : [
@@ -22,5 +24,8 @@
     "cursorColor" : "#BD93F9",
     "foregroundColor" : "#F8F8F2"
   },
-  "version" : 1
+  "appearance": {
+     "lightOverride": true,
+     "darkOverride": false
+  }
 }
